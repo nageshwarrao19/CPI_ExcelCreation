@@ -1,5 +1,5 @@
 This iflow demonstrates the process to generate (write) an excel workbook out of SAP Cloud Integration (CPI) using Apache POI libraries.
-Source XML is hardcoded via content modifier and an email is generated with the excel attachment. The iflow can be directly imported and deployed after mail configurations to test the working. 
+Source XML is hardcoded via content modifier and an email is generated with the excel attachment. The iflow can be directly imported and deployed after mail configurations to test its working. Receiver adapter can be changed to an SFTP/ FTP as well to get an excel workbook.
 
 ![image](https://user-images.githubusercontent.com/8555711/235407821-d237a449-1e8a-4f08-a5b2-9f786b5bc2dc.png)
 
